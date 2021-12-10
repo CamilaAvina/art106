@@ -5,6 +5,7 @@ h1{
 body{
   background-color: #ff1aff
 }
+
 .collab{
   background-color:  #ffe6ff;
   padding: 25px 30px 50px;
@@ -31,6 +32,12 @@ body{
 
 }
 .readings{
+  background-color:  #ffe6ff;
+  padding: 25px 30px 50px;
+  text-align: center;
+
+}
+.Final{
   background-color:  #ffe6ff;
   padding: 25px 30px 50px;
   text-align: center;
